@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: ASADASDDocumentation
 category: documentation
 permalink: /documentation
 ---
